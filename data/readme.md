@@ -1,3 +1,1 @@
-pH/pR/pK 位点的数据将在整理后上传
-
-The data of pH/PR/pK sites will be uploaded after sorting
+Data of pH/pR/pK sites will be uploaded to this directory after being sorted
