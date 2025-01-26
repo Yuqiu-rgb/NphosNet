@@ -1,1 +1,1 @@
-ProtT5-enc权重文件，请自行在huggingface中下载并上传到此文件中
+"Please download the ProtT5-enc weight file from Hugging Face by yourself and upload it to this location/file."
