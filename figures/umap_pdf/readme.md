@@ -1,0 +1,1 @@
+umap可视化图在model_evaluate.py运行后即可保存在此路径
