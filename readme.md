@@ -59,7 +59,7 @@ Please refer to the download version of xlstm to **https://github.com/NX-AI/xlst
 python train.py
 ```
 
-​	在model_evaluate.py中，此代码块是模型评估时所用，也只需 python model_evaluate.py,切换位点操作见train.py
+​	In model_evaluate.py, this code block is used for model evaluation, and only python model_evaluate.py is required. For switching site operations, see train.py
 
 ```
 python model_evaluation.py
