@@ -1,1 +1,1 @@
-因权重文件大小因素，如果读者需要此权重文件，可邮箱联系我，我后续也会把权重文件同步到OneDrive中，谢谢
+Due to the size of the weight file, if readers need this weight file, they can contact me via email, and I will also synchronize the weight file to OneDrive in the future. Thank you
