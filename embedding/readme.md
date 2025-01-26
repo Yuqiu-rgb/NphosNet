@@ -1,1 +1,1 @@
-因文件大小因素，嵌入表示我会稍后上传到OneDrive中，或者大家可以联系我邮箱索取，谢谢
+Due to the file size, the embedding representation will be uploaded to OneDrive later, or you can contact my email for a copy. Thank you
