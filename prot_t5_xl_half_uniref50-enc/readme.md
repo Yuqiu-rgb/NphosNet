@@ -1,0 +1,1 @@
+ProtT5-enc权重文件，请自行在huggingface中下载并上传到此文件中
