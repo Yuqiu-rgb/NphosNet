@@ -14,7 +14,7 @@ Please refer to the download version of xlstm to **https://github.com/NX-AI/xlst
 
 **2.Data**
 
-​	I will upload the data to "/data" directory or OneDrive, or readers can contact me via email 2359448439@qq.com
+​	I will upload the data to "/data" directory or OneDrive
 
 **3.ProtT5 and EMBERE2 embeeding** 
 
