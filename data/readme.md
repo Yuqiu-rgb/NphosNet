@@ -1,1 +1,1 @@
-Data of pH/pR/pK sites will be uploaded to this directory after being sorted
+The following is an example of pH data set. The final data set will be published immediately after the paper is accepted. Thank you
