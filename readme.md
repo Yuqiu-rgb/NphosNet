@@ -21,6 +21,7 @@ Please download torch version>=2.0 or above to avoid version conflicts
 Please refer to the download version of xlstm to **https://github.com/NX-AI/xlstm**
 
 The model weights are stored in the **model** directory, UMAP visualization figures in PDF format are contained in the **figures/umap_pdf** directory, and the source code is maintained in the **src** directory.
+OneDrive::https://1drv.ms/f/c/f62ed24d5dd739a3/EnEGJFUOfNVAujXkWqKaEH4BLuiR0c5-_IahEqbFWXzjkg
 
 **2.Data**
 
