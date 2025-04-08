@@ -69,7 +69,7 @@ The model weights are stored in the **model** directory, UMAP visualization figu
 python train.py
 ```
 
-​	在model_evaluate.py中，此代码块是模型评估时所用，也只需 python model_evaluate.py,切换位点操作见train.py
+​	在model_evaluate.py中，it is used for model evaluating，run python model_evaluate.py
 
 ```
 python model_evaluation.py
