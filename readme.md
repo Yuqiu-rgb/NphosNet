@@ -4,7 +4,7 @@ NphosNet: A Deep Learning Model for Predicting Protein N-Phosphorylation Sites B
 
 The codebase is currently undergoing active refactoring to enhance research reproducibility and clarify the internal data flow architecture of the model, though this process requires additional development time.
 
-Due to GitHub's file size limitations , we are temporarily unable to host the complete dataset along with its corresponding embeddings and model weights. A representative dataset sample has been provisionally archived in the data/ directory. Upon completion of the codebase restructuring, we will systematically organize and upload the full dataset with precomputed embeddings and trained model weights to a dedicated cloud repository **(OneDrive**), with persistent access links embedded in this GitHub repository.
+Due to GitHub's file size limitations , we are temporarily unable to host the complete dataset along with its corresponding embeddings and model weights. A representative dataset sample has been provisionally archived in the data/ directory. Upon completion of the codebase restructuring, we will systematically organize and upload the full dataset with precomputed embeddings and trained model weights to a dedicated cloud repository **(OneDrive**:https://1drv.ms/f/c/f62ed24d5dd739a3/EnEGJFUOfNVAujXkWqKaEH4BLuiR0c5-_IahEqbFWXzjkg), with persistent access links embedded in this GitHub repository.
 
 ------
 
