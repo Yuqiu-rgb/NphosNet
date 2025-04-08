@@ -1,1 +1,1 @@
-The following is an example of pH data set. The final data set will be published immediately after the paper is accepted. Thank you
+We have uploaded sample cases from the PH dataset, and the complete dataset will be archived in OneDrive.Thank you！
